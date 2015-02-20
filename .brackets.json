@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/ashwingrao/Dropbox/Git/stukio/stukdo/vendor/gems/less-2.6.0/lib/less/js/dist/less-1.7.0.js",
+        "/Users/ashwingrao/Dropbox/Git/stukio/stukdo/app/assets/javascripts/application.js"
+    ]
+}

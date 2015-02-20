@@ -1,0 +1,12 @@
+## Add Gem to Gemfile
+
+## Do bundle install
+bundle install
+
+## Run
+rails generate simple_form:install
+
+## clean up install
+sudo gem pristine --all
+
+

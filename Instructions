@@ -4,7 +4,7 @@
 bundle install
 
 ## Run
-rails generate simple_form:install
+rails generate simple_form:install --bootstrap
 
 ## clean up install
 sudo gem pristine --all

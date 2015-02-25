@@ -8,5 +8,6 @@ rails generate simple_form:install --bootstrap
 
 ## clean up install
 sudo gem pristine --all
+rake routes
 
 
